@@ -66,7 +66,10 @@ A análise exploratória consiste na inspeção inicial dos dados para identific
 Foram criados gráficos para facilitar a interpretação dos dados, incluindo:  
 
 1️⃣ **Vendas por Categoria**: Análise do faturamento de cada categoria de produtos  
+![image](https://github.com/user-attachments/assets/b9080a4e-851d-4d5a-a2d9-d947619d49d4)
+
 2️⃣ **Evolução das Vendas ao Longo do Tempo**: Tendência de vendas diárias ou mensais  
+![image](https://github.com/user-attachments/assets/ef8a22a4-cccc-47b7-9072-960182ec685e)
 
 ---
 
